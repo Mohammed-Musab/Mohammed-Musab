@@ -2,13 +2,11 @@
 
 # Hi, I'm Mohammed 🤖
 
-<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Student+from+the+United+Arab+Emirates;UAE+Representative+at+IOAI+2025;Building+Lazy+Data+Cleaner;Machine+Learning+%7C+Data+Science+%7C+Python;Creating+Practical+AI+Tools;Exploring+Deep+Learning;Open+Source+Developer;Always+Learning%2C+Always+Building" />
 
 <br>
 
-### 🇦🇪 AI/ML Student • Data Science Enthusiast • UAE Representative @ IOAI 2025
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Musab&style=for-the-badge&color=blue)](https://github.com/Mohammed-Musab)
+<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%"/>
 
 </div>
 
@@ -16,17 +14,15 @@
 
 ## 🚀 About Me
 
-I'm a student from the **United Arab Emirates 🇦🇪** who represented my country at the **International Olympiad in Artificial Intelligence (IOAI) 2025**.
-
-I enjoy building practical AI and data science tools that solve real-world problems.
-
-### Current Focus
+I'm a student from the **United Arab Emirates 🇦🇪** with a strong passion for:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 📊 Data Science
 - 🐍 Python Development
-- 🚀 Open Source Projects
+- 🚀 Open Source
+
+I represented the UAE at the **International Olympiad in Artificial Intelligence (IOAI) 2025** and enjoy building practical tools that make technology more accessible.
 
 ---
 
@@ -34,18 +30,18 @@ I enjoy building practical AI and data science tools that solve real-world probl
 
 ### 🧹 Lazy Data Cleaner
 
-A lightweight dataset-cleaning application that makes preprocessing fast and accessible.
+A lightweight dataset-cleaning application built to simplify preprocessing.
 
-#### Features
+**Features**
 
-- 📄 CSV / XLS / XLSX Support
-- 🧠 Smart Cleaning Presets
-- 📈 Progress Tracking
-- 🎨 Full GUI
-- 🛡 Non-destructive Workflow
-- ⚡ Fast Processing
+- CSV / XLS / XLSX support
+- Smart cleaning presets
+- Progress tracking
+- GUI interface
+- Non-destructive workflow
+- Fast preprocessing
 
-#### Tech Stack
+**Tech**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -72,15 +68,7 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Musab&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
