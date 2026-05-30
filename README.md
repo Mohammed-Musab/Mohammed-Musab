@@ -12,7 +12,7 @@
 
 ### 🇦🇪 AI/ML Student • Data Science • UAE Representative @ IOAI 2025
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Musab\&style=for-the-badge\&color=blue)](https://github.com/Mohammed-Musab)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Musab&style=for-the-badge&color=blue)](https://github.com/Mohammed-Musab)
 
 </div>
 
@@ -24,11 +24,11 @@ I'm a student from the **United Arab Emirates 🇦🇪** who represented the UAE
 
 My interests include:
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Science
-* 🐍 Python Development
-* 🚀 Open Source Software
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🐍 Python Development
+- 🚀 Open Source Software
 
 I enjoy building practical tools that make AI and data science more accessible and easier to use.
 
@@ -42,21 +42,21 @@ A lightweight dataset-cleaning application designed to simplify preprocessing an
 
 #### Features
 
-* CSV / XLS / XLSX support
-* Smart cleaning presets
-* GUI interface
-* Progress tracking
-* Non-destructive workflow
-* Fast preprocessing
+- CSV / XLS / XLSX support
+- Smart cleaning presets
+- GUI interface
+- Progress tracking
+- Non-destructive workflow
+- Fast preprocessing
 
 #### Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-🔗 Repository: [https://github.com/Mohammed-Musab/Lazy-Data-Cleaner](https://github.com/Mohammed-Musab/Lazy-Data-Cleaner)
+🔗 Repository: https://github.com/Mohammed-Musab/Lazy-Data-Cleaner
 
 ---
 
@@ -64,19 +64,19 @@ A lightweight dataset-cleaning application designed to simplify preprocessing an
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Data & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat\&logo=windows\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
@@ -91,16 +91,15 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
 ## 📬 Connect
 
