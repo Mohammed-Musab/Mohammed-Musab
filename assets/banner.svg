@@ -1,93 +1,182 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
 
-<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="500" fill="#0d1117"/>
 
-  <rect width="1200" height="400" fill="#0d1117"/>
+<!-- Terminal Window -->
 
-  <rect x="20" y="60" width="1160" height="300"
-        rx="12"
-        fill="#161b22"
-        stroke="#58a6ff"
-        stroke-width="2"/>
+<rect x="20" y="80" width="1160" height="360"
+      rx="10"
+      fill="#0b1220"
+      stroke="#1f6feb"
+      stroke-width="2"/>
 
-  <circle cx="50" cy="90" r="7" fill="#ff5f56"/>
-  <circle cx="75" cy="90" r="7" fill="#ffbd2e"/>
-  <circle cx="100" cy="90" r="7" fill="#27c93f"/>
+<!-- Header -->
 
-  <text x="130" y="97"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="18">
-    Mohammed-Musab / README.md
-  </text>
+<rect x="20" y="80" width="1160" height="40"
+      fill="#111827"/>
 
-  <!-- Neural network graphic -->
-  <circle cx="170" cy="180" r="8" fill="#58a6ff"/>
-  <circle cx="170" cy="260" r="8" fill="#58a6ff"/>
+<circle cx="50" cy="100" r="7" fill="#ff5f56"/>
+<circle cx="75" cy="100" r="7" fill="#ffbd2e"/>
+<circle cx="100" cy="100" r="7" fill="#27c93f"/>
 
-  <circle cx="270" cy="140" r="8" fill="#7ee787"/>
-  <circle cx="270" cy="220" r="8" fill="#7ee787"/>
-  <circle cx="270" cy="300" r="8" fill="#7ee787"/>
+<text x="370" y="105"
+      fill="#6b7280"
+      font-size="16"
+      font-family="monospace">
+python
+</text>
 
-  <circle cx="380" cy="180" r="8" fill="#f2cc60"/>
-  <circle cx="380" cy="260" r="8" fill="#f2cc60"/>
+<text x="450" y="105"
+      fill="#6b7280"
+      font-size="16"
+      font-family="monospace">
+train.py
+</text>
 
-  <line x1="170" y1="180" x2="270" y2="140" stroke="#58a6ff"/>
-  <line x1="170" y1="180" x2="270" y2="220" stroke="#58a6ff"/>
-  <line x1="170" y1="180" x2="270" y2="300" stroke="#58a6ff"/>
+<!-- Title -->
 
-  <line x1="170" y1="260" x2="270" y2="140" stroke="#58a6ff"/>
-  <line x1="170" y1="260" x2="270" y2="220" stroke="#58a6ff"/>
-  <line x1="170" y1="260" x2="270" y2="300" stroke="#58a6ff"/>
+<text x="20"
+      y="40"
+      fill="#ffffff"
+      font-size="40"
+      font-family="Arial"
+      font-weight="bold">
+Hi, I'm Mohammed 🤖
+</text>
 
-  <line x1="270" y1="140" x2="380" y2="180" stroke="#58a6ff"/>
-  <line x1="270" y1="220" x2="380" y2="180" stroke="#58a6ff"/>
-  <line x1="270" y1="300" x2="380" y2="180" stroke="#58a6ff"/>
+<text x="20"
+      y="65"
+      fill="#ffffff"
+      font-size="22"
+      font-family="Arial">
+AI / ML • Data Science • UAE Representative @ IOAI 2025
+</text>
 
-  <line x1="270" y1="140" x2="380" y2="260" stroke="#58a6ff"/>
-  <line x1="270" y1="220" x2="380" y2="260" stroke="#58a6ff"/>
-  <line x1="270" y1="300" x2="380" y2="260" stroke="#58a6ff"/>
+<!-- Neural Network -->
 
-  <!-- Terminal text -->
-  <text x="520" y="140"
-        fill="#7ee787"
-        font-family="monospace"
-        font-size="30">
-    # Training the model...
-  </text>
+<text x="40"
+      y="150"
+      fill="#6b7280"
+      font-size="16"
+      font-family="monospace">
+Neural Network
+</text>
 
-  <text x="520" y="190"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="28">
-    model.fit(
-  </text>
+<!-- Layer 1 -->
 
-  <text x="570" y="235"
-        fill="#f2cc60"
-        font-family="monospace"
-        font-size="28">
-    Mohammed_Musab,
-  </text>
+<circle cx="120" cy="180" r="6" fill="#34d399"/>
+<circle cx="120" cy="240" r="6" fill="#34d399"/>
+<circle cx="120" cy="300" r="6" fill="#34d399"/>
 
-  <text x="570" y="280"
-        fill="#ffffff"
-        font-family="monospace"
-        font-size="28">
-    epochs=∞
-  </text>
+<!-- Layer 2 -->
 
-  <text x="520" y="325"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="28">
-    )
-  </text>
+<circle cx="200" cy="150" r="6" fill="#60a5fa"/>
+<circle cx="200" cy="210" r="6" fill="#60a5fa"/>
+<circle cx="200" cy="270" r="6" fill="#60a5fa"/>
+<circle cx="200" cy="330" r="6" fill="#60a5fa"/>
 
-  <text x="40" y="385"
-        fill="#8b949e"
-        font-family="monospace"
-        font-size="18">
-    Status: Building AI tools
-  </text>
+<!-- Layer 3 -->
+
+<circle cx="300" cy="180" r="6" fill="#34d399"/>
+<circle cx="300" cy="240" r="6" fill="#34d399"/>
+<circle cx="300" cy="300" r="6" fill="#34d399"/>
+
+<!-- Layer 4 -->
+
+<circle cx="380" cy="210" r="6" fill="#fbbf24"/>
+<circle cx="380" cy="270" r="6" fill="#fbbf24"/>
+
+<!-- Connections -->
+
+<line x1="120" y1="180" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="180" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="180" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="180" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="120" y1="240" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="240" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="240" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="240" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="120" y1="300" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="300" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="300" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
+<line x1="120" y1="300" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="200" y1="150" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="210" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="270" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="330" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="200" y1="150" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="210" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="270" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="330" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="200" y1="150" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="210" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="270" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
+<line x1="200" y1="330" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="300" y1="180" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
+<line x1="300" y1="240" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
+<line x1="300" y1="300" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
+
+<line x1="300" y1="180" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
+<line x1="300" y1="240" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
+<line x1="300" y1="300" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
+
+<!-- Code -->
+
+<text x="520"
+      y="180"
+      fill="#86efac"
+      font-size="28"
+      font-family="monospace"
+      font-weight="bold">
+# Training the model...
+</text>
+
+<text x="520"
+      y="240"
+      fill="#60a5fa"
+      font-size="30"
+      font-family="monospace">
+model.fit(
+</text>
+
+<text x="570"
+      y="295"
+      fill="#fcd34d"
+      font-size="30"
+      font-family="monospace">
+Mohammed_Musab,
+</text>
+
+<text x="570"
+      y="345"
+      fill="#ffffff"
+      font-size="28"
+      font-family="monospace">
+epochs=∞
+</text>
+
+<text x="520"
+      y="395"
+      fill="#60a5fa"
+      font-size="30"
+      font-family="monospace">
+)
+</text>
+
+<!-- Footer -->
+
+<text x="520"
+      y="430"
+      fill="#6b7280"
+      font-size="18"
+      font-family="monospace">
+AI / ML Student • Data Science • Open Source Developer
+</text>
 
 </svg>
