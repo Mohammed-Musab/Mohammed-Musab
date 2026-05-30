@@ -94,9 +94,13 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
   <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true" />
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true" />
