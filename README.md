@@ -1,16 +1,20 @@
 <div align="center">
 
-# Hi, I'm Mohammed 🤖
+# Hi, I'm Mohammed!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Student+from+the+United+Arab+Emirates;UAE+Representative+at+IOAI+2025;Building+Lazy+Data+Cleaner;Machine+Learning+%7C+Data+Science+%7C+Python;Creating+Practical+AI+Tools;Exploring+Deep+Learning;Open+Source+Developer;Always+Learning%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=7EE787&center=true&vCenter=true&width=1200&lines=%23+Initializing+environment...;%23+Loading+datasets...;%23+Cleaning+data...;%23+Training+the+model...;%23+Evaluating+results...;%23+Optimizing+hyperparameters...;%23+Building+Lazy+Data+Cleaner...;%23+Exploring+Machine+Learning...;%23+Researching+AI+Systems...;%23+Representing+UAE+%40+IOAI+2025...;%23+Ready+for+deployment+✓" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%" />
+
+<br>
+
+### 🇦🇪 AI/ML Student • Data Science • IOAI 2025 UAE Representative
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Musab&style=for-the-badge&color=blue)](https://github.com/Mohammed-Musab)
 
 </div>
-
----
 
 ## 🚀 About Me
 
