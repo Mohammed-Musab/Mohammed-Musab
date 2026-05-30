@@ -91,15 +91,16 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📬 Connect
 
