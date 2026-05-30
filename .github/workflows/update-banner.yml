@@ -30,6 +30,6 @@ jobs:
 
           git add assets/banner.svg
 
-          git commit -m "Update banner" || exit 0
+          git commit -m "Update dynamic banner" || exit 0
 
           git push
