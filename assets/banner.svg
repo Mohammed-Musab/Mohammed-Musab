@@ -1,94 +1,97 @@
 <svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="1200" height="500" fill="#0d1117"/>
+  <rect width="1200" height="500" fill="#0d1117"/>
 
-<!-- Terminal Window -->
-<rect x="20" y="80" width="1160" height="360"
-      rx="10"
-      fill="#0b1220"
-      stroke="#1f6feb"
-      stroke-width="2"/>
+  <!-- TERMINAL -->
+  <rect x="20" y="80" width="1160" height="360"
+        rx="10"
+        fill="#0b1220"
+        stroke="#1f6feb"
+        stroke-width="2"/>
 
-<!-- Header -->
-<rect x="20" y="80" width="1160" height="40" fill="#111827"/>
+  <rect x="20" y="80" width="1160" height="40" fill="#111827"/>
 
-<circle cx="50" cy="100" r="7" fill="#ff5f56"/>
-<circle cx="75" cy="100" r="7" fill="#ffbd2e"/>
-<circle cx="100" cy="100" r="7" fill="#27c93f"/>
+  <circle cx="50" cy="100" r="7" fill="#ff5f56"/>
+  <circle cx="75" cy="100" r="7" fill="#ffbd2e"/>
+  <circle cx="100" cy="100" r="7" fill="#27c93f"/>
 
-<text x="370" y="105" fill="#6b7280" font-size="16" font-family="monospace">python</text>
-<text x="450" y="105" fill="#6b7280" font-size="16" font-family="monospace">train.py</text>
+  <text x="370" y="105" fill="#6b7280" font-size="16" font-family="monospace">python</text>
+  <text x="450" y="105" fill="#6b7280" font-size="16" font-family="monospace">train.py</text>
 
-<!-- Title with fade-in animation -->
-<text x="20" y="40" fill="#ffffff" font-size="40" font-family="Arial" font-weight="bold" opacity="0">
-Hi, I'm Mohammed 🤖
-<animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
-</text>
+  <!-- TITLE -->
+  <text x="20" y="40" fill="#ffffff" font-size="40" font-family="Arial" font-weight="bold">
+    Hi, I'm Mohammed 🤖
+  </text>
 
-<text x="20" y="65" fill="#ffffff" font-size="22" font-family="Arial" opacity="0">
-AI / ML • Data Science • UAE Representative @ IOAI 2025
-<animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
-</text>
+  <text x="20" y="65" fill="#ffffff" font-size="22" font-family="Arial">
+    AI / ML • Data Science • UAE Representative @ IOAI 2025
+  </text>
 
-<!-- Floating Neural Network pulse -->
-<g>
-<animateTransform attributeName="transform"
-                  type="translate"
-                  values="0,0; 0,-3; 0,0"
-                  dur="3s"
-                  repeatCount="indefinite"/>
+  <!-- NEURAL NETWORK -->
+  <g>
+    <circle cx="120" cy="180" r="6" fill="#34d399"/>
+    <circle cx="120" cy="240" r="6" fill="#34d399"/>
+    <circle cx="120" cy="300" r="6" fill="#34d399"/>
 
-<!-- Layer 1 -->
-<circle cx="120" cy="180" r="6" fill="#34d399"/>
-<circle cx="120" cy="240" r="6" fill="#34d399"/>
-<circle cx="120" cy="300" r="6" fill="#34d399"/>
+    <circle cx="200" cy="150" r="6" fill="#60a5fa"/>
+    <circle cx="200" cy="210" r="6" fill="#60a5fa"/>
+    <circle cx="200" cy="270" r="6" fill="#60a5fa"/>
+    <circle cx="200" cy="330" r="6" fill="#60a5fa"/>
 
-<!-- Layer 2 -->
-<circle cx="200" cy="150" r="6" fill="#60a5fa"/>
-<circle cx="200" cy="210" r="6" fill="#60a5fa"/>
-<circle cx="200" cy="270" r="6" fill="#60a5fa"/>
-<circle cx="200" cy="330" r="6" fill="#60a5fa"/>
+    <circle cx="300" cy="180" r="6" fill="#34d399"/>
+    <circle cx="300" cy="240" r="6" fill="#34d399"/>
+    <circle cx="300" cy="300" r="6" fill="#34d399"/>
 
-<!-- Layer 3 -->
-<circle cx="300" cy="180" r="6" fill="#34d399"/>
-<circle cx="300" cy="240" r="6" fill="#34d399"/>
-<circle cx="300" cy="300" r="6" fill="#34d399"/>
+    <circle cx="380" cy="210" r="6" fill="#fbbf24"/>
+    <circle cx="380" cy="270" r="6" fill="#fbbf24"/>
+  </g>
 
-<!-- Layer 4 -->
-<circle cx="380" cy="210" r="6" fill="#fbbf24"/>
-<circle cx="380" cy="270" r="6" fill="#fbbf24"/>
+  <!-- ========================= -->
+  <!-- FAST REALISTIC TYPING     -->
+  <!-- ========================= -->
 
-</g>
+  <defs>
 
-<!-- Code typing effect -->
-<text x="520" y="180" fill="#86efac" font-size="28" font-family="monospace" font-weight="bold">
-# Training the model...
-<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
-</text>
+    <!-- LINE 1 MASK -->
+    <clipPath id="l1">
+      <rect x="520" y="230" width="0" height="40">
+        <animate attributeName="width"
+                 values="0;700"
+                 dur="2.2s"
+                 begin="2s"
+                 fill="freeze"/>
+      </rect>
+    </clipPath>
 
-<text x="520" y="240" fill="#60a5fa" font-size="30" font-family="monospace" opacity="0">
-model.fit(
-<animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.8s" fill="freeze"/>
-</text>
+    <!-- LINE 2 MASK -->
+    <clipPath id="l2">
+      <rect x="520" y="290" width="0" height="40">
+        <animate attributeName="width"
+                 values="0;220"
+                 dur="1.6s"
+                 begin="4.3s"
+                 fill="freeze"/>
+      </rect>
+    </clipPath>
 
-<text x="570" y="295" fill="#fcd34d" font-size="30" font-family="monospace" opacity="0">
-Mohammed_Musab,
-<animate attributeName="opacity" values="0;1" begin="1.4s" dur="0.8s" fill="freeze"/>
-</text>
+  </defs>
 
-<text x="570" y="345" fill="#ffffff" font-size="28" font-family="monospace" opacity="0">
-epochs=∞
-<animate attributeName="opacity" values="0;1" begin="2s" dur="0.8s" fill="freeze"/>
-</text>
+  <!-- LINE 1 -->
+  <text x="520" y="255"
+        font-family="monospace"
+        font-size="30"
+        fill="#60a5fa"
+        clip-path="url(#l1)">
+    model.fit(Mohammed_Musab,
+  </text>
 
-<text x="520" y="395" fill="#60a5fa" font-size="30" font-family="monospace" opacity="0">
-)
-<animate attributeName="opacity" values="0;1" begin="2.4s" dur="0.8s" fill="freeze"/>
-</text>
-
-<!-- Cursor blink effect -->
-<rect x="520" y="410" width="10" height="20" fill="#ffffff">
-<animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
-</rect>
+  <!-- LINE 2 -->
+  <text x="520" y="315"
+        font-family="monospace"
+        font-size="30"
+        fill="#fcd34d"
+        clip-path="url(#l2)">
+    epochs=∞)
+  </text>
 
 </svg>
