@@ -1,97 +1,45 @@
-<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<!-- ========================= -->
+<!-- SAFE TYPING ANIMATION FIX -->
+<!-- ========================= -->
 
-  <rect width="1200" height="500" fill="#0d1117"/>
+<defs>
+  <mask id="m1">
+    <rect x="520" y="230" width="0" height="40" fill="white">
+      <animate attributeName="width"
+               from="0"
+               to="700"
+               dur="2.2s"
+               begin="1.5s"
+               fill="freeze"/>
+    </rect>
+  </mask>
 
-  <!-- TERMINAL -->
-  <rect x="20" y="80" width="1160" height="360"
-        rx="10"
-        fill="#0b1220"
-        stroke="#1f6feb"
-        stroke-width="2"/>
+  <mask id="m2">
+    <rect x="520" y="290" width="0" height="40" fill="white">
+      <animate attributeName="width"
+               from="0"
+               to="220"
+               dur="1.6s"
+               begin="3.8s"
+               fill="freeze"/>
+    </rect>
+  </mask>
+</defs>
 
-  <rect x="20" y="80" width="1160" height="40" fill="#111827"/>
+<!-- LINE 1 -->
+<text x="520" y="255"
+      font-family="monospace"
+      font-size="30"
+      fill="#60a5fa"
+      mask="url(#m1)">
+  model.fit(Mohammed_Musab,
+</text>
 
-  <circle cx="50" cy="100" r="7" fill="#ff5f56"/>
-  <circle cx="75" cy="100" r="7" fill="#ffbd2e"/>
-  <circle cx="100" cy="100" r="7" fill="#27c93f"/>
-
-  <text x="370" y="105" fill="#6b7280" font-size="16" font-family="monospace">python</text>
-  <text x="450" y="105" fill="#6b7280" font-size="16" font-family="monospace">train.py</text>
-
-  <!-- TITLE -->
-  <text x="20" y="40" fill="#ffffff" font-size="40" font-family="Arial" font-weight="bold">
-    Hi, I'm Mohammed 🤖
-  </text>
-
-  <text x="20" y="65" fill="#ffffff" font-size="22" font-family="Arial">
-    AI / ML • Data Science • UAE Representative @ IOAI 2025
-  </text>
-
-  <!-- NEURAL NETWORK -->
-  <g>
-    <circle cx="120" cy="180" r="6" fill="#34d399"/>
-    <circle cx="120" cy="240" r="6" fill="#34d399"/>
-    <circle cx="120" cy="300" r="6" fill="#34d399"/>
-
-    <circle cx="200" cy="150" r="6" fill="#60a5fa"/>
-    <circle cx="200" cy="210" r="6" fill="#60a5fa"/>
-    <circle cx="200" cy="270" r="6" fill="#60a5fa"/>
-    <circle cx="200" cy="330" r="6" fill="#60a5fa"/>
-
-    <circle cx="300" cy="180" r="6" fill="#34d399"/>
-    <circle cx="300" cy="240" r="6" fill="#34d399"/>
-    <circle cx="300" cy="300" r="6" fill="#34d399"/>
-
-    <circle cx="380" cy="210" r="6" fill="#fbbf24"/>
-    <circle cx="380" cy="270" r="6" fill="#fbbf24"/>
-  </g>
-
-  <!-- ========================= -->
-  <!-- FAST REALISTIC TYPING     -->
-  <!-- ========================= -->
-
-  <defs>
-
-    <!-- LINE 1 MASK -->
-    <clipPath id="l1">
-      <rect x="520" y="230" width="0" height="40">
-        <animate attributeName="width"
-                 values="0;700"
-                 dur="2.2s"
-                 begin="2s"
-                 fill="freeze"/>
-      </rect>
-    </clipPath>
-
-    <!-- LINE 2 MASK -->
-    <clipPath id="l2">
-      <rect x="520" y="290" width="0" height="40">
-        <animate attributeName="width"
-                 values="0;220"
-                 dur="1.6s"
-                 begin="4.3s"
-                 fill="freeze"/>
-      </rect>
-    </clipPath>
-
-  </defs>
-
-  <!-- LINE 1 -->
-  <text x="520" y="255"
-        font-family="monospace"
-        font-size="30"
-        fill="#60a5fa"
-        clip-path="url(#l1)">
-    model.fit(Mohammed_Musab,
-  </text>
-
-  <!-- LINE 2 -->
-  <text x="520" y="315"
-        font-family="monospace"
-        font-size="30"
-        fill="#fcd34d"
-        clip-path="url(#l2)">
-    epochs=∞)
-  </text>
-
-</svg>
+<!-- LINE 2 -->
+<text x="520" y="315"
+      font-family="monospace"
+      font-size="30"
+      fill="#fcd34d"
+      mask="url(#m2)">
+  epochs=∞)
+</text>
