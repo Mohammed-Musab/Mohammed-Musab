@@ -2,11 +2,11 @@
 
 # Hi, I'm Mohammed 🤖
 
-<img src="./assets/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%" />
 
 <br>
 
-### 🇦🇪 AI/ML Student • Data Science Enthusiast • IOAI 2025 UAE Representative
+### 🇦🇪 AI/ML Student • Data Science Enthusiast • UAE Representative @ IOAI 2025
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohammed-Musab&style=for-the-badge&color=blue)](https://github.com/Mohammed-Musab)
 
@@ -16,19 +16,17 @@
 
 ## 🚀 About Me
 
-I'm Mohammed, a student from the **United Arab Emirates 🇦🇪** passionate about:
+I'm a student from the **United Arab Emirates 🇦🇪** who represented my country at the **International Olympiad in Artificial Intelligence (IOAI) 2025**.
+
+I enjoy building practical AI and data science tools that solve real-world problems.
+
+### Current Focus
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 📊 Data Science
 - 🐍 Python Development
-- 🏗 Building useful tools
-
-In 2025, I represented the **United Arab Emirates** at the **International Olympiad in Artificial Intelligence (IOAI)**.
-
-My goal is simple:
-
-> Build practical AI tools that solve real problems.
+- 🚀 Open Source Projects
 
 ---
 
@@ -36,15 +34,16 @@ My goal is simple:
 
 ### 🧹 Lazy Data Cleaner
 
-A lightweight dataset-cleaning application designed to make preprocessing simple and accessible.
+A lightweight dataset-cleaning application that makes preprocessing fast and accessible.
 
 #### Features
 
-- 📄 CSV / XLS / XLSX support
-- 🧠 Smart cleaning presets
-- 📈 Progress tracking
+- 📄 CSV / XLS / XLSX Support
+- 🧠 Smart Cleaning Presets
+- 📈 Progress Tracking
 - 🎨 Full GUI
-- 🛡 Non-destructive workflow
+- 🛡 Non-destructive Workflow
+- ⚡ Fast Processing
 
 #### Tech Stack
 
@@ -65,23 +64,23 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Musab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Mohammed-Musab&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Musab&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Musab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Musab&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -103,4 +102,3 @@ Selected to represent the United Arab Emirates at the International Olympiad in 
 ### ⚡ Building useful AI tools one commit at a time
 
 </div>
-
