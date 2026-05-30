@@ -3,18 +3,20 @@ import random
 import os
 
 statuses = [
-    "🟢 Building Lazy Data Cleaner",
-    "🧠 Studying Machine Learning",
-    "📊 Exploring Data Science",
-    "🚀 Working on New Features",
-    "☕ Converting Coffee into Python",
-    "🤖 Training Future AI Projects",
-    "🇦🇪 Representing UAE in AI",
-    "📚 Learning Deep Learning",
-    "⚡ Improving Open Source Projects",
+    "# Initializing environment...",
+    "# Loading datasets...",
+    "# Cleaning data...",
+    "# Training the model...",
+    "# Evaluating results...",
+    "# Optimizing hyperparameters...",
+    "# Building Lazy Data Cleaner...",
+    "# Exploring machine learning...",
+    "# Developing AI tools...",
+    "# Representing UAE @ IOAI 2025",
+    "# Ready for deployment ✓",
 ]
 
-status = random.choice(statuses)
+status = statuses[datetime.utcnow().hour % len(statuses)]
 updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
 os.makedirs("assets", exist_ok=True)
