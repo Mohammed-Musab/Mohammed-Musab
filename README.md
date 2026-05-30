@@ -2,13 +2,15 @@
 
 # Hi, I'm Mohammed!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=7EE787&center=true&vCenter=true&width=1200&lines=%23+Initializing+environment...;%23+Loading+datasets...;%23+Cleaning+data...;%23+Training+the+model...;%23+Evaluating+results...;%23+Optimizing+hyperparameters...;%23+Building+Lazy+Data+Cleaner...;%23+Exploring+Machine+Learning...;%23+Researching+AI+Systems...;%23+Representing+UAE+%40+IOAI+2025...;%23+Ready+for+deployment+✓" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=86EFAC&center=true&vCenter=true&width=1200&lines=%23+Initializing+environment...;%23+Loading+datasets...;%23+Cleaning+data...;%23+Training+the+model...;%23+Evaluating+results...;%23+Optimizing+hyperparameters...;%23+Building+Lazy+Data+Cleaner...;%23+Representing+UAE+%40+IOAI+2025...;%23+Ready+for+deployment+✓" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Mohammed-Musab/Mohammed-Musab/main/assets/banner.svg" width="100%"/>
 
-<br>
+</div>
+
+---
 
 ### 🇦🇪 AI/ML Student • Data Science • IOAI 2025 UAE Representative
 
