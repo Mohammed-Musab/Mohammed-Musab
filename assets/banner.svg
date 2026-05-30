@@ -3,7 +3,6 @@
 <rect width="1200" height="500" fill="#0d1117"/>
 
 <!-- Terminal Window -->
-
 <rect x="20" y="80" width="1160" height="360"
       rx="10"
       fill="#0b1220"
@@ -11,172 +10,85 @@
       stroke-width="2"/>
 
 <!-- Header -->
-
-<rect x="20" y="80" width="1160" height="40"
-      fill="#111827"/>
+<rect x="20" y="80" width="1160" height="40" fill="#111827"/>
 
 <circle cx="50" cy="100" r="7" fill="#ff5f56"/>
 <circle cx="75" cy="100" r="7" fill="#ffbd2e"/>
 <circle cx="100" cy="100" r="7" fill="#27c93f"/>
 
-<text x="370" y="105"
-      fill="#6b7280"
-      font-size="16"
-      font-family="monospace">
-python
-</text>
+<text x="370" y="105" fill="#6b7280" font-size="16" font-family="monospace">python</text>
+<text x="450" y="105" fill="#6b7280" font-size="16" font-family="monospace">train.py</text>
 
-<text x="450" y="105"
-      fill="#6b7280"
-      font-size="16"
-      font-family="monospace">
-train.py
-</text>
-
-<!-- Title -->
-
-<text x="20"
-      y="40"
-      fill="#ffffff"
-      font-size="40"
-      font-family="Arial"
-      font-weight="bold">
+<!-- Title with fade-in animation -->
+<text x="20" y="40" fill="#ffffff" font-size="40" font-family="Arial" font-weight="bold" opacity="0">
 Hi, I'm Mohammed 🤖
+<animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
 </text>
 
-<text x="20"
-      y="65"
-      fill="#ffffff"
-      font-size="22"
-      font-family="Arial">
+<text x="20" y="65" fill="#ffffff" font-size="22" font-family="Arial" opacity="0">
 AI / ML • Data Science • UAE Representative @ IOAI 2025
+<animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
 </text>
 
-<!-- Neural Network -->
-
-<text x="40"
-      y="150"
-      fill="#6b7280"
-      font-size="16"
-      font-family="monospace">
-Neural Network
-</text>
+<!-- Floating Neural Network pulse -->
+<g>
+<animateTransform attributeName="transform"
+                  type="translate"
+                  values="0,0; 0,-3; 0,0"
+                  dur="3s"
+                  repeatCount="indefinite"/>
 
 <!-- Layer 1 -->
-
 <circle cx="120" cy="180" r="6" fill="#34d399"/>
 <circle cx="120" cy="240" r="6" fill="#34d399"/>
 <circle cx="120" cy="300" r="6" fill="#34d399"/>
 
 <!-- Layer 2 -->
-
 <circle cx="200" cy="150" r="6" fill="#60a5fa"/>
 <circle cx="200" cy="210" r="6" fill="#60a5fa"/>
 <circle cx="200" cy="270" r="6" fill="#60a5fa"/>
 <circle cx="200" cy="330" r="6" fill="#60a5fa"/>
 
 <!-- Layer 3 -->
-
 <circle cx="300" cy="180" r="6" fill="#34d399"/>
 <circle cx="300" cy="240" r="6" fill="#34d399"/>
 <circle cx="300" cy="300" r="6" fill="#34d399"/>
 
 <!-- Layer 4 -->
-
 <circle cx="380" cy="210" r="6" fill="#fbbf24"/>
 <circle cx="380" cy="270" r="6" fill="#fbbf24"/>
 
-<!-- Connections -->
+</g>
 
-<line x1="120" y1="180" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="180" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="180" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="180" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="120" y1="240" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="240" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="240" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="240" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="120" y1="300" x2="200" y2="150" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="300" x2="200" y2="210" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="300" x2="200" y2="270" stroke="#2563eb" stroke-width="1"/>
-<line x1="120" y1="300" x2="200" y2="330" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="200" y1="150" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="210" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="270" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="330" x2="300" y2="180" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="200" y1="150" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="210" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="270" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="330" x2="300" y2="240" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="200" y1="150" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="210" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="270" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
-<line x1="200" y1="330" x2="300" y2="300" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="300" y1="180" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
-<line x1="300" y1="240" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
-<line x1="300" y1="300" x2="380" y2="210" stroke="#2563eb" stroke-width="1"/>
-
-<line x1="300" y1="180" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
-<line x1="300" y1="240" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
-<line x1="300" y1="300" x2="380" y2="270" stroke="#2563eb" stroke-width="1"/>
-
-<!-- Code -->
-
-<text x="520"
-      y="180"
-      fill="#86efac"
-      font-size="28"
-      font-family="monospace"
-      font-weight="bold">
+<!-- Code typing effect -->
+<text x="520" y="180" fill="#86efac" font-size="28" font-family="monospace" font-weight="bold">
 # Training the model...
+<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
 </text>
 
-<text x="520"
-      y="240"
-      fill="#60a5fa"
-      font-size="30"
-      font-family="monospace">
+<text x="520" y="240" fill="#60a5fa" font-size="30" font-family="monospace" opacity="0">
 model.fit(
+<animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.8s" fill="freeze"/>
 </text>
 
-<text x="570"
-      y="295"
-      fill="#fcd34d"
-      font-size="30"
-      font-family="monospace">
+<text x="570" y="295" fill="#fcd34d" font-size="30" font-family="monospace" opacity="0">
 Mohammed_Musab,
+<animate attributeName="opacity" values="0;1" begin="1.4s" dur="0.8s" fill="freeze"/>
 </text>
 
-<text x="570"
-      y="345"
-      fill="#ffffff"
-      font-size="28"
-      font-family="monospace">
+<text x="570" y="345" fill="#ffffff" font-size="28" font-family="monospace" opacity="0">
 epochs=∞
+<animate attributeName="opacity" values="0;1" begin="2s" dur="0.8s" fill="freeze"/>
 </text>
 
-<text x="520"
-      y="395"
-      fill="#60a5fa"
-      font-size="30"
-      font-family="monospace">
+<text x="520" y="395" fill="#60a5fa" font-size="30" font-family="monospace" opacity="0">
 )
+<animate attributeName="opacity" values="0;1" begin="2.4s" dur="0.8s" fill="freeze"/>
 </text>
 
-<!-- Footer -->
-
-<text x="520"
-      y="430"
-      fill="#6b7280"
-      font-size="18"
-      font-family="monospace">
-AI / ML Student • Data Science • Open Source Developer
-</text>
+<!-- Cursor blink effect -->
+<rect x="520" y="410" width="10" height="20" fill="#ffffff">
+<animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+</rect>
 
 </svg>
