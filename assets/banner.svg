@@ -26,7 +26,6 @@
   </mask>
 </defs>
 
-<!-- LINE 1 -->
 <text x="520" y="255"
       font-family="monospace"
       font-size="30"
@@ -35,7 +34,6 @@
   model.fit(Mohammed_Musab,
 </text>
 
-<!-- LINE 2 -->
 <text x="520" y="315"
       font-family="monospace"
       font-size="30"
